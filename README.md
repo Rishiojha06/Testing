@@ -53,10 +53,10 @@ Plastic pollution is a significant environmental issue affecting oceans, rivers,
 
 ### Technologies:
 
-- **Frontend:** HTML, CSS, JavaScript (React, Vue.js, or Angular)
-- **Backend:** Node.js, Express
-- **Database:** MongoDB or PostgreSQL for storing user reports and GIS data
-- **GIS Library/API:** Mapbox, Leaflet.js, or Google Maps API
+- **Frontend:** HTML, CSS, React js and Typescript.
+- **Backend:** Node.js, Express, Revelo.
+- **Database:** MongoDB or PostgreSQL for storing user reports and GIS data.
+- **GIS Library/API:** Mapbox, Leaflet.js, or Google Maps API.
 - **User Authentication:** Implement user accounts to enhance data integrity and user engagement.
 - **Real-time Capabilities:** WebSocket or a real-time database to update the map in real-time.
 
